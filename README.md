@@ -1,4 +1,5 @@
 
+
 # Cricket Tournament Organizer
 
 A simple project built using Django and MySQL to organize and manage cricket tournaments. This project leverages Docker for containerization.
